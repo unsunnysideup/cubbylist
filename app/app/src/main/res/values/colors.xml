@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="olive_leaf">#FF606C38</color>">
+    <color name="black_forest">#FF283618</color>">
+    <color name="cornsilk">#FFFEFAE0</color>
+    <color name="sunlit_clay">#FFDDA15E</color>">
+    <color name="copperwood">#FFBC6C25</color>">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="delete_dark">#FF9B2226</color>
+    <color name="delete_bright">#FFFA6767</color>
+</resources>

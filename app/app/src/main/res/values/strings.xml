@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">cubbylist</string>
+    <string name="title">cubbylist</string>
+    <string name="deleteLists">delete all lists</string>
+    <string name="confirmDeleteLists">yes, delete all lists!</string>
+    <string name="createList">create a new list</string>
+    <string name="list">list</string>
+    <string name="enter">enter</string>
+    <string name="addItem">add a new item</string>
+    <string name="item">item</string>
+    <string name="no_lists">no lists</string>
+    <string name="empty_list">no lists yet, click below to start</string>
+    <string name="deleteItems">delete all items</string>
+    <string name="confirmDeleteItems">Yes, delete all items</string>
+    <string name="go_home">go Home</string>
+    <string name="no_items">no items</string>
+    <string name="empty_items">no items yet, click below to start</string>
+    <string name="new_list">new list</string>
+    <string name="edit_list">edit list</string>
+    <string name="new_title">new title</string>
+    <string name="description">description</string>
+    <string name="create_list">create list</string>
+    <string name="add_item">add item</string>
+    <string name="edit_item">edit item</string>
+    <string name="item_price">item price</string>
+    <string name="item_description">item description</string>
+    <string name="item_name">item name</string>
+    <string name="new_item">new item</string>
+    <string name="no_list_selected">no list selected</string>
+</resources>
